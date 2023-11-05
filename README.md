@@ -1,2 +1,1 @@
-# github-bot
-Github Bot
+# practice-java
